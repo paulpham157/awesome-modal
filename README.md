@@ -36,6 +36,7 @@ If you'd like to be featured, submit a PR!
 
 | Repository | Content |
 |------------|---------|
+| [DeepSeek OCR](https://github.com/dotieuthien/test-modal/blob/main/llm/deepseek_ocr.py) | Run DeepSeek-OCR on Modal |
 | [ClipScript](https://huggingface.co/spaces/Agents-MCP-Hackathon/ClipScript) | Generate blog posts from audio files |
 | [Podcast Generator](https://github.com/c123ian/advanced_podcast_gen) | Notebookllama Podcast Generator with FastHTML |
 | [ChatGPU](https://github.com/aflah02/ChatGPU) | Chat with the [Modal GPU Glossary](https://modal.com/gpu-glossary) |
