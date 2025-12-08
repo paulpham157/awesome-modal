@@ -93,6 +93,7 @@ If you'd like to be featured, submit a PR!
 
 | Repository | Content |
 |------------|---------|
+| [ncompass](https://github.com/nCompass-tech/ncompass) | Profile GPU-accelerated code remotely |
 | [joblib-modal](https://github.com/adrinjalali/joblib-modal) | Use Modal as a backend for `joblib` |
 | [modal-docs-copilot-extension](https://github.com/anthonycorletti/modal-docs-copilot-extension) | Chat with Modal docs in GitHub Copilot |
 | [sotopia](https://github.com/sotopia-lab/sotopia) | ICLR 2024 spotlight: An open-ended social learning environment for agents|
